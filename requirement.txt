@@ -1,0 +1,6 @@
+onnxruntime-directml >= 1.17.1
+opencv-python >= 4.9.0.80
+PyAutoGUI >= 0.9.54
+numpy >= 1.26.4
+ultralytics >= 8.1.24
+onnx >= 1.15.0
